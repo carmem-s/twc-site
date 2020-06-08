@@ -14,4 +14,4 @@ permalink: /brazil/
 - Estamos no Slack da TWC, no canal #local-brasil; a maior parte das nossas discussões online, por enquanto, acontecem lá.
 
 ## Código de Conduta
-- Todas as reuniões e comunicação interna e externa deve aderir ao Código de Conduta da TWC [TWC Code of Conduct](https://techworkerscoalition.org/community-guide/). A privacidade e segurança de cada pessoa é importante para nós. Compartilhar a identidade dos membros e ou tirar/partilhar fotos são estritamente proibidos, a menos que seja dado consentimento expresso.
+- Todas as reuniões e comunicação interna e externa deve aderir ao Código de Conduta da TWC [TWC Code of Conduct](/pt/community-guide/). A privacidade e segurança de cada pessoa é importante para nós. Compartilhar a identidade dos membros e ou tirar/partilhar fotos são estritamente proibidos, a menos que seja dado consentimento expresso.
